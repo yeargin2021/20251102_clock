@@ -1,0 +1,14 @@
+# Digital Clock App Requirements
+# This file specifies the Python packages required to run the application
+
+# Core dependencies (tkinter is included with Python, no external packages needed for basic functionality)
+
+# Optional: For enhanced functionality you could add:
+# pillow>=8.0.0          # For advanced image handling if you add icons
+# pystray>=0.17.0        # For system tray integration
+# pygame>=2.0.0          # For sound notifications (hourly chimes, etc.)
+
+# Development dependencies (uncomment if needed for development)
+# pytest>=6.0.0          # For testing
+# black>=21.0.0          # For code formatting
+# flake8>=3.8.0          # For linting
