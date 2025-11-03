@@ -52,7 +52,6 @@ chmod +x run_clock.sh
 ```
 digital_clock_app/
 ├── digital_clock_app.py    # Main application file
-├── mod01.py               # Original version
 ├── requirements.txt       # Python dependencies
 ├── run_clock.sh          # Shell script to run the app
 ├── setup.py              # Package setup file
